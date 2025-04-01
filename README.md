@@ -1,4 +1,4 @@
-# Feature Selection for MLR3 Framework
+# Feature Selection method in MLR3 Framework
 
 This repository contains methods and examples for feature selection using the mlr3 framework in R. It provides a structured approach to selecting the most relevant features for machine learning models.
 
